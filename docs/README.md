@@ -44,7 +44,7 @@ docs/
 
 ## ベーシック検定 → [`basic/`](basic/)
 
-教材（[`../raw/basic/`](../raw/basic/)）を解析した試験対策ノート。出題範囲は公式シラバス [`../raw/basic/basic-syllabus_v2.0.pdf`](../raw/basic/basic-syllabus_v2.0.pdf)（v2.0）に準拠し、大項目2・3の全19トピックを網羅しています（索引は [`basic/README.md`](basic/README.md)）。
+教材（[`../raw/basic/`](../raw/basic/)）を解析した試験対策ノート。出題範囲は公式シラバス [`../raw/basic/basic-syllabus_v2.0.pdf`](../raw/basic/basic-syllabus_v2.0.pdf)（v2.0）に準拠し、大項目2・3の全19トピックを網羅しています。
 
 - **試験直前** → [`basic/00_暗記チートシート.md`](basic/00_暗記チートシート.md)（全体横断の最重要ポイント・数値・比較表）
 
